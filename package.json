@@ -5,12 +5,14 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "http-server"
+        "start": "http-server",
+        "j5": "node index.js"
     },
     "author": "Edwin Martin",
     "license": "MIT",
     "dependencies": {
         "face-detectify": "^1.0.0",
-        "facedetector": "^1.0.0"
+        "facedetector": "^1.0.0",
+        "johnny-five": "^1.0.0"
     }
 }
