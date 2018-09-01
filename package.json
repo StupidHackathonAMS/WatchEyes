@@ -1,0 +1,15 @@
+{
+    "name": "watcheyes",
+    "version": "1.0.0",
+    "description": "Detect faces abd watch them",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "http-server"
+    },
+    "author": "Edwin Martin",
+    "license": "MIT",
+    "dependencies": {
+        "facedetector": "^1.0.0"
+    }
+}
